@@ -461,7 +461,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 /* Buttons: http://hellohappy.org/css3-buttons/ */
 .sp-container button {
   display: inline-block;
-  padding: 4px 12px;
+
   margin-bottom: 0;
   font-size: 14px;
   font-weight: normal;
@@ -501,6 +501,8 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
     border-color: #2d60ad;
 }
 .sp-container button.sp-choose {
+    margin-right: 3px;
+
     color: #fff;
     background-color: #45b864;
     border-color: #45b864;
