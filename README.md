@@ -1,5 +1,5 @@
 # Spectrum
-## The No Hassle Colorpicker
+## The No Hassle Colorpicker [![Circle CI](https://circleci.com/gh/Rise-Vision/spectrum/tree/master.svg?style=svg)](https://circleci.com/gh/Rise-Vision/spectrum/tree/master)
 
 See the demo and docs: http://bgrins.github.io/spectrum.
 
