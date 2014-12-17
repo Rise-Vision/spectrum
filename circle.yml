@@ -1,0 +1,17 @@
+dependencies:
+  post:
+    - bower install
+test:
+  override:
+    - grunt test
+deployment:
+  staging:
+    branch: /(feature|fix|chore).*/
+    commands:
+      - grunt build
+  production:
+    branch: master
+    commands:
+      - grunt build
+      - echo "Trigger style-guide build"
+      - curl -X POST https://circleci.com/api/v1/project/Rise-Vision/style-guide/tree/master?circle-token=$RISE_CIRCLE_TOKEN
