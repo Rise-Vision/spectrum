@@ -496,15 +496,15 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
           box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
 }
 .sp-container button.sp-cancel {
-    color: #fff;
-    background-color: #2d60ad;
-    border-color: #2d60ad;
+    color: #000;
+    background-color: #d4d4d4;
+    border-color: #d4d4d4;
 }
 .sp-container button.sp-choose {
     margin-right: 2px;
     color: #fff;
-    background-color: #45b864;
-    border-color: #45b864;
+    background-color: #4AB767;
+    border-color: #4AB767;
 }
 
 

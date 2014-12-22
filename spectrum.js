@@ -113,7 +113,7 @@
                     "<div class='sp-button-container sp-cf'>",
                         "<button type='button' class='sp-choose'><i class='fa fa-check fa-white '></i></button>",
                         "<span class='sp-btn-spacer'/>",
-                        "<button type='button' class='sp-cancel'><i class='fa fa-times fa-white '></i></button>",
+                        "<button type='button' class='sp-cancel'><i class='fa fa-times'></i></button>",
                     "</div>",
                 "</div>",
             "</div>"
